@@ -1,5 +1,5 @@
 body {
-    background-image: url('src/assets/pexels-enginakyurt-31031360.jpg');
+    background-image: url('./assets/pexels-enginakyurt-31031360.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
